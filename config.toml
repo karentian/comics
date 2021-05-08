@@ -5,9 +5,9 @@ baseURL = "https://example.com"
 theme = "hugo-bearblog"
 
 # Basic metadata configuration for your blog.
-title = "Hugo ʕ•ᴥ•ʔ Bear Blog"
-author = "Jane Doe"
-copyright = "Copyright © 2020, Jane Doe."
+title = "comics"
+author = "grad student"
+copyright = "Copyright © 2020, grad student."
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO
