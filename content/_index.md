@@ -6,6 +6,12 @@ comics, often about grad school, by a grad student putting off work in grad scho
 
 ---
 
+![20210508](/images/20210508_2.jpg)
+
+May 8, 2021
+
+---
+
 ![20210508](/images/20210508.jpg)
 
 May 8, 2021
