@@ -10,4 +10,5 @@ menu: main
 
 ![thoughts](/images/thoughts.gif)
 
-partially imagined, partially nonficition 
+comics, often about grad school, by a grad student putting off work in grad school.
+partially imagined, partially nonficition. 

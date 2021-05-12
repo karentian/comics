@@ -2,7 +2,7 @@
 {}
 ---
 
-comics, often about grad school, by a grad student putting off work in grad school
+comics to calm you
 
 ---
 
