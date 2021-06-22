@@ -6,6 +6,18 @@ comics to calm you
 
 ---
 
+![20210512](/images/woof.jpg)
+
+June 2021 
+
+---
+
+![20210512](/images/pillow.jpg)
+
+October 2020 
+
+---
+
 ![20210512](/images/20210512.png)
 
 May 12, 2021
